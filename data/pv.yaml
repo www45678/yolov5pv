@@ -1,0 +1,7 @@
+path: data
+train: train.txt
+val: train.txt
+test: test.txt
+
+nc: 5
+names: ['broken', 'hot_spot', 'black_border', 'scratch', 'no_electricity']
