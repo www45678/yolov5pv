@@ -1,6 +1,6 @@
 path: data
 train: train.txt
-val: train.txt
+val: val.txt
 test: test.txt
 
 nc: 5
